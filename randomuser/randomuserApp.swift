@@ -11,7 +11,7 @@ import SwiftUI
 struct randomuserApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RandomUserDashboard()
         }
     }
 }
